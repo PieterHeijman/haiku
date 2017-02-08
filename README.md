@@ -1,2 +1,2 @@
 # haiku
-Simple Powershell script that shows a random haiku
+Simple Powershell script that shows a random haiku.
